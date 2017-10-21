@@ -1,0 +1,25 @@
+body {
+  color: red;
+}
+
+h2 {
+  border-bottom: thick dotted #2f5e83;
+  font-size: 22pt;
+  font-weight: bold;
+  text-decoration: underline;
+  text-shadow: 2px 2px #95a1a0;
+}
+
+header {
+  color: pink;
+}
+
+.logo {
+  border: double;
+  border-radius: 25px;
+}
+
+p {
+  color: #90223e;
+  font-family: cursive;
+}
